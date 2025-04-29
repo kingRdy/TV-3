@@ -6,13 +6,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #EXTVLVOPT:http-origin=https://play.926003.tv/
 #EXTVLCOPT:http-referrer=https://play.926003.tv/
-#https://pl10.chinefore.com/live/2de09f1425b4bcce.m3u8?txSecret=9f40f00c9e99a2417905a81dbae77e37&txTime=680F6B69
+https://pl10.chinefore.com/live/2de09f1425b4bcce.m3u8?txSecret=9f40f00c9e99a2417905a81dbae77e37&txTime=680F6B69
 
 
             ---jalalive----
 
 #EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴BRI LIGA 1",event only 2
-#https://drive.google.com/file/d/1BJX42BQ6NET9Eurs9u0BZQVvReXCxYrA/view?usp=drivesdk
+https://drive.google.com/file/d/1BJX42BQ6NET9Eurs9u0BZQVvReXCxYrA/view?usp=drivesdk
     
 
         -----livesport---
@@ -21,7 +21,7 @@
 #EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://tnt1-cf.boblcfwudz421.com/auth%3D59ae1c22da81e3d57ce840095f0ac2fb4f36b306baeed25a88125eb2794b4fb6fdd0e2f36b2e3b61dff52b9b0b83edba647684c10a3fe6ece44aeb8040ac4724da7fa4c31d8b5425650b76aaa6d659ae87e5462993a268ecf06dddf94467482088fdf294524cb6b2434f9b9db02f8cfa3fccfe3ee3a8f137dab9b29ee0c4b4854e4ee76c315481890a460efcb3a298424bf37f503c86f9b0eee75c0a0daa9d32ef5fa046fc7ad9056d7c743c44886bc4bd05f1116f229d564d2beac5c8cecf72%26cid%3D9r1dRiRtp-L0JBjKV7pxy250418%26_v%3D2%26_r%3DiXoUQw%26_vis%3D65c5f6b9eec2b26e216498b17d64cf0e849ba309779ced644c17985324641106%26_vvs%3D61911198f01b51c4933a527b45817fea9eac1cf34800e262285676e5a25567c3/transcode/c345622_480p.m3u8
+https://tnt1-cf.boblcfwudz421.com/auth%3D59ae1c22da81e3d57ce840095f0ac2fb4f36b306baeed25a88125eb2794b4fb6fdd0e2f36b2e3b61dff52b9b0b83edba647684c10a3fe6ece44aeb8040ac4724da7fa4c31d8b5425650b76aaa6d659ae87e5462993a268ecf06dddf94467482088fdf294524cb6b2434f9b9db02f8cfa3fccfe3ee3a8f137dab9b29ee0c4b4854e4ee76c315481890a460efcb3a298424bf37f503c86f9b0eee75c0a0daa9d32ef5fa046fc7ad9056d7c743c44886bc4bd05f1116f229d564d2beac5c8cecf72%26cid%3D9r1dRiRtp-L0JBjKV7pxy250418%26_v%3D2%26_r%3DiXoUQw%26_vis%3D65c5f6b9eec2b26e216498b17d64cf0e849ba309779ced644c17985324641106%26_vvs%3D61911198f01b51c4933a527b45817fea9eac1cf34800e262285676e5a25567c3/transcode/c345622_480p.m3u8
 
 
 
@@ -997,7 +997,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
 
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
@@ -1478,7 +1478,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
-#https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
   
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4VOKkah.jpg" group-title="🔴SKY SPORT", SKY SPORTS BUNDESLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
